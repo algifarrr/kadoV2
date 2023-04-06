@@ -10,14 +10,18 @@
   --dark-color: #000;
 }
 
+@-ms-viewport{
+  width: device-width;
+}
+
 body {
   display: flex;
   align-items: flex-end;
   justify-content: center;
-  min-height: 100vh;
+  height: 100vh;
+  width: 100vw;
   background-color: var(--dark-color);
   overflow: hidden;
-  perspective: 1000px;
 }
 
 .night {
