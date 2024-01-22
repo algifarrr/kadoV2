@@ -14,4 +14,4 @@ Responsive Web -- bisa langsung disesuikan di file css --> style.css
 
 Thanks to codepan and mdusmanansari
 
-untuk live demo bisa ke http://algifarrr.github.io/kadoV2
+
